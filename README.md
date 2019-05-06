@@ -1,6 +1,6 @@
 # Compositional Recursive Learner
 
-This repo contains the code for the paper Automatically Composing Representation Transformations as a Means for Generalization.
+This repo contains the code for the paper [Automatically Composing Representation Transformations as a Means for Generalization](https://arxiv.org/abs/1807.04640).
 
 ## Running the Code
 
