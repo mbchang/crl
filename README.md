@@ -2,6 +2,8 @@
 
 This repo contains the code for the paper [Automatically Composing Representation Transformations as a Means for Generalization](https://arxiv.org/abs/1807.04640).
 
+![](https://github.com/mbchang/crl/blob/master/figs/main_diagram_final.png)
+
 ## Running the Code
 
 For multilingual arithmetic, run the following command: `python cmdp.py`
