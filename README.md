@@ -11,4 +11,3 @@ For MNIST image transformations, run the following command: `python mnist_classi
 You can print to a text file by adding the argument `--printf`.
 
 If you are just want a quick run-through to see how the code works, add the argument `--debug`.
-
