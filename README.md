@@ -2,6 +2,15 @@
 
 This repo contains the code for the paper [Automatically Composing Representation Transformations as a Means for Generalization](https://arxiv.org/abs/1807.04640).
 
+```
+@article{chang2018automatically,
+  title={Automatically composing representation transformations as a means for generalization},
+  author={Chang, Michael B and Gupta, Abhishek and Levine, Sergey and Griffiths, Thomas L},
+  journal={arXiv preprint arXiv:1807.04640},
+  year={2018}
+}
+```
+
 ![](https://github.com/mbchang/crl/blob/master/figs/main_diagram_final.png)
 
 ## Running the Code
