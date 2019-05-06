@@ -15,9 +15,9 @@ This repo contains the code for the paper [Automatically Composing Representatio
 
 ## Running the Code
 
-For multilingual arithmetic, run the following command: `python cmdp.py`
+For multilingual arithmetic, run the following command: `python crl_arithlang.py`
 
-For MNIST image transformations, run the following command: `python mnist_classification.py`
+For MNIST image transformations, run the following command: `python crl_imagetransform.py`
 
 You can print to a text file by adding the argument `--printf`.
 
